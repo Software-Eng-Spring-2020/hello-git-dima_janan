@@ -7,6 +7,7 @@
       <AnchorPane prefHeight="274.0" prefWidth="200.0">
          <children>
             <Label layoutX="88.0" layoutY="80.0" text="Dima" />
+             <Label layoutX="88.0" layoutY="80.0" text="Janan" />
          </children>
       </AnchorPane>
    </children>
