@@ -3,6 +3,12 @@
 <?import javafx.scene.layout.VBox?>
 
 <VBox xmlns:fx="http://javafx.com/fxml/1">
-	<!-- TODO Add Nodes -->
+ <children>
+      <AnchorPane prefHeight="274.0" prefWidth="200.0">
+         <children>
+            <Label layoutX="88.0" layoutY="80.0" text="Dima" />
+         </children>
+      </AnchorPane>
+   </children>
 </VBox>
 
